@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Emmy",
+    "age": 19,
+    "email": "Emmy@gmail.com",
+    "profile": "https://images.pexels.com/photos/2105606/pexels-photo-2105606.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+    "gender": "female",
+    "address": {
+      "country": "mongolia",
+      "postalCode": 1234,
+      "district": "UB"
+    }
+  },
+  {
+    "name": "Anmy",
+    "age": 29,
+    "email": "Anmy@gmail.com",
+    "profile": "https://images.pexels.com/photos/2105606/pexels-photo-2105606.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+    "gender": "female",
+    "address": {
+      "country": "mongolia",
+      "postalCode": 1234,
+      "district": "UB"
+    }
+  },
+  {
+    "name": "Enma",
+    "age": 11,
+    "email": "Enma@gmail.com",
+    "profile": "https://images.pexels.com/photos/2105606/pexels-photo-2105606.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+    "gender": "female",
+    "address": {
+      "country": "mongolia",
+      "postalCode": 1234,
+      "district": "UB"
+    }
+  },
+  {
+    "name": "Maya",
+    "age": 5,
+    "email": "Maya@gmail.com",
+    "profile": "https://images.pexels.com/photos/2105606/pexels-photo-2105606.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+    "gender": "male",
+    "address": {
+      "country": "mongolia",
+      "postalCode": 1234,
+      "district": "UB"
+    }
+  },
+  {
+    "name": "Tony",
+    "age": 26,
+    "email": "Tony@gmail.com",
+    "profile": "https://images.pexels.com/photos/2105606/pexels-photo-2105606.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+    "gender": "male",
+    "address": {
+      "country": "mongolia",
+      "postalCode": 1234,
+      "district": "UB"
+    }
+  },
+  {
+    "name": "Snippy",
+    "age": 51,
+    "email": "Snippy@gmail.com",
+    "profile": "https://images.pexels.com/photos/2105606/pexels-photo-2105606.jpeg?auto=compress&cs=tinysrgb&dpr=1",
+    "gender": "male",
+    "address": {
+      "country": "mongolia",
+      "postalCode": 1234,
+      "district": "UB"
+    }
+  }
+]
