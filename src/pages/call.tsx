@@ -35,7 +35,8 @@ const Call = () => {
     return <div>Loading...</div>;
   }
   return (
-    <Main>
+    <>
+      <Main />
       <Paginate />
       <div
         style={{
@@ -59,7 +60,7 @@ const Call = () => {
           );
         })}
       </div>
-    </Main>
+    </>
   );
 };
 

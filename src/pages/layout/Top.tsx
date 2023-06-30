@@ -4,12 +4,13 @@ const Top = () => {
   return (
     <div
       style={{
-        position: "absolute",
+        position: "fixed",
         top: "0px",
         right: "0px",
         width: "100vw",
         height: "200px",
         backgroundColor: "yellow",
+        display: "block",
       }}
     >
       Top

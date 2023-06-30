@@ -4,11 +4,12 @@ const Footer = () => {
   return (
     <div
       style={{
-        position: "absolute",
+        position: "fixed",
         bottom: "0px",
         width: "100vw",
         height: "200px",
         backgroundColor: "red",
+        display: "block",
       }}
     >
       Footer
